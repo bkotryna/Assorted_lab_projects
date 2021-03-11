@@ -1,4 +1,4 @@
-# Some Projects from Biochemistry
+# Assorted projects from Biochemistry
 Some work done at the Biochemistry Department
 
 1) Which grid squares do good cryoEM particles come from:<br>
