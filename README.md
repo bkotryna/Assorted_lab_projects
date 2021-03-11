@@ -1,5 +1,5 @@
 # Projects_at_Biochemistry
-Work at the Biochemistry Department
+Some work done at the Biochemistry Department
 
 1) Which grid squares do good cryoEM particles come from:<br>
     -- Good particles = those that contributed to the final structure reconstruction.<br>
