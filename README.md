@@ -1,5 +1,5 @@
-# Assorted projects from Biochemistry
-Some work done at the Biochemistry Department
+# Assorted lab projects
+Some work done in the lab
 
 1) Cryo-electron microscopy data analysis; determine which squares on a grid had good particles in them:<br>
     -- Good particles = those that contributed to the final structure reconstruction.<br>
